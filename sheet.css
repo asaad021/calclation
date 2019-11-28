@@ -1,0 +1,35 @@
+body{
+	background-color: #d4d3d3;
+	margin-left:5%;	
+}
+#div1{
+	background-color:white;
+	padding-left:1%;
+}
+.cls{
+	background-color:#1111;
+}
+.child:hover{
+	font-family:"tahoma";
+}
+.cls:hover{
+	background-color:white;
+}
+.cls:active{
+	background-color:blue;
+
+}
+table{
+	border-collapse:collapse;
+	text-align:center;
+	font-family:"arial";
+	font-style:italic;
+}
+#clmn{
+	background-color:black;
+	color:white;
+}
+#girl{
+	background-color:pink;
+}
+
